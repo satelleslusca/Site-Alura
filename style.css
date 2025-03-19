@@ -8,6 +8,10 @@
     --alto-contraste-link: #ffd700;
 }
 
+logo.png{
+    size: 50%;
+}
+
 body {
     font-size: 1rem;
     font-family: 'Montserrat';
